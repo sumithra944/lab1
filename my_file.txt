@@ -1,1 +1,2 @@
-"This is my very first Git experiment." 
+"Hi, I am Sumithra.V"
+"Its my first time creating a repository"
